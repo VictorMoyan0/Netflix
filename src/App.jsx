@@ -1,7 +1,7 @@
 import Navbar from './Navbar';
 import Recommendations from './assets/recommendations';
 import Banner from './assets/banner';
-import './style.css';
+import './Style.css';
 
 function App() {
   return (
