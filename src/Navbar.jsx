@@ -28,7 +28,7 @@ function Navbar() {
         </div>
 
         <div className="nav-menu-right">
-          <NetflixSearchIcon width={24} height={24} />
+          <NetflixSearchIcon/>
           <ul>
             <li>
               <a href="#">INFANTIL</a>
