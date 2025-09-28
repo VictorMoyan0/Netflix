@@ -1,4 +1,4 @@
-import BellIcon, { LineMdBell } from './assets/bell';
+import BellIcon from './assets/bell';
 import NetflixSearchIcon from './assets/search';
 import { TablerUser } from './assets/user';
 
