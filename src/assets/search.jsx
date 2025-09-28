@@ -1,15 +1,21 @@
-export function MaterialSymbolsSearch(props) {
+export default function NetflixSearchIcon(props) {
   return (
     <svg
-      xmlns="http://www.w3.org/2000/svg"
-      width="2em"
-      height="2em"
       viewBox="0 0 24 24"
+      width={props.width || 24}
+      height={props.height || 24}
+      aria-hidden="true"
+      className={props.className || 'search-icon'}
+      xmlns="http://www.w3.org/2000/svg"
+      fill="none"
+      role="img"
       {...props}
     >
       <path
+        fillRule="evenodd"
+        clipRule="evenodd"
+        d="M17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10ZM15.6177 17.0319C14.078 18.2635 12.125 19 10 19C5.02944 19 1 14.9706 1 10C1 5.02944 5.02944 1 10 1C14.9706 1 19 5.02944 19 10C19 12.125 18.2635 14.078 17.0319 15.6177L22.7071 21.2929L21.2929 22.7071L15.6177 17.0319Z"
         fill="currentColor"
-        d="m19.6 21l-6.3-6.3q-.75.6-1.725.95T9.5 16q-2.725 0-4.612-1.888T3 9.5t1.888-4.612T9.5 3t4.613 1.888T16 9.5q0 1.1-.35 2.075T14.7 13.3l6.3 6.3zM9.5 14q1.875 0 3.188-1.312T14 9.5t-1.312-3.187T9.5 5T6.313 6.313T5 9.5t1.313 3.188T9.5 14"
       />
     </svg>
   );
