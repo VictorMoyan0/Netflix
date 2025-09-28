@@ -185,5 +185,7 @@ a {
 }
 
 .recommendations-container {
+  font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", Roboto, Ubuntu, sans-serif;
   margin-left: 20px;
+  color: #fff;
 }
