@@ -1,5 +1,5 @@
 import { LineMdBell } from './assets/bell';
-import NetflixSearchIcon from './assets/NetflixSearchIcon';
+import NetflixSearchIcon from './assets/search';
 import { TablerUser } from './assets/user';
 
 function Navbar() {
