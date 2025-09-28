@@ -107,6 +107,7 @@ a {
 }
 
 .banner-title {
+  color: rgb(238, 222, 7);
   font-size: 3.2em;
   font-weight: bold;
   margin: 0.2em 0 0.2em 0;
@@ -114,9 +115,6 @@ a {
   line-height: 1.1;
 }
 
-.banner-title-red {
-  color: #ffe600;
-}
 
 .banner-buttons {
   margin: 1.5em 0 1em 0;
