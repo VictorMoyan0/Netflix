@@ -1,4 +1,4 @@
-import { LineMdBell } from './assets/bell';
+import BellIcon, { LineMdBell } from './assets/bell';
 import NetflixSearchIcon from './assets/search';
 import { TablerUser } from './assets/user';
 
@@ -37,7 +37,7 @@ function Navbar() {
               <a href="#">DVD</a>
             </li>
           </ul>
-          <LineMdBell />
+          <BellIcon />
           <TablerUser />
         </div>
       </nav>
