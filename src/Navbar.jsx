@@ -1,6 +1,6 @@
 import BellIcon from './assets/bell';
 import NetflixSearchIcon from './assets/search';
-import { TablerUser } from './assets/user';
+import TablerUser from './assets/user';
 
 function Navbar() {
   return (
