@@ -8,7 +8,10 @@ function App() {
     <>
       <Navbar />
       <Banner />
-      <Recommendations />
+      <div className='recommendations-container'>
+        <Recommendations />
+      </div>
+      
     </>
   );
 }
