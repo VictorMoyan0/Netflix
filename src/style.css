@@ -49,3 +49,16 @@ a {
 .bell-icon {
   color: #ffff;
 }
+
+.profile-icon {
+  width: 32px;
+  height: 32px;
+  border-radius: 4px;
+  object-fit: cover;
+  border: 2px solid transparent;
+  transition: border 0.2s;
+}
+
+.profile-link:hover .profile-icon {
+  border: 2px solid #fff;
+}
