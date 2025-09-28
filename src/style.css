@@ -19,6 +19,8 @@
 }
 
 nav {
+  font-family: "Netflix Sans", "Helvetica Neue", Arial, sans-serif;
+  font-size: 14px;
   display: flex;
   background: linear-gradient(
     to bottom,
