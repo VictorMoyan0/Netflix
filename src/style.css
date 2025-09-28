@@ -64,3 +64,16 @@ a {
 .profile-link:hover .profile-icon {
   border: 2px solid #fff;
 }
+
+.logo {
+  color: #e50914;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1.8em;
+  margin-right: 5px;
+  text-decoration: none;
+  vertical-align: middle;
+  font-family: "Netflix Sans", "Helvetica Neue", Arial, sans-serif;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
