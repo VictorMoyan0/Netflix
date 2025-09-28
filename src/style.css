@@ -19,9 +19,6 @@
 }
 
 nav {
-  font-family: "Netflix Sans", "Helvetica Neue", Arial, sans-serif;
-  font-size: 14px;
-  color: #E5E5E5;
   display: flex;
   background: linear-gradient(
     to bottom,
@@ -41,8 +38,10 @@ nav ul {
 }
 
 a {
+  font-family: "Netflix Sans", "Helvetica Neue", Arial, sans-serif;
+  font-size: 14px;
   text-decoration: none;
-  color: #fff;
+  color: #E5E5E5;
 }
 
 .search-icon {
