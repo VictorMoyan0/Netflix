@@ -8,7 +8,7 @@ function Navbar() {
     <header>
       <nav>
         <div className="nav-menu-left">
-          
+          <a href="/browse" className="logo" aria-label="Netflix">Netflix</a>
           <ul>
             <li>
               <a href="#">Inicio</a>
