@@ -67,11 +67,14 @@ a {
 
 .logo {
   color: #e50914;
+  font-family: "Netflix Sans", "Helvetica Neue", Arial, sans-serif;
+  font-weight: bold;
+  font-size: 1.8em;
+  letter-spacing: 2px;
+  text-decoration: none;
   cursor: pointer;
   display: inline-block;
-  font-size: 1.8em;
   margin-right: 5px;
-  text-decoration: none;
   vertical-align: middle;
   font-family: "Netflix Sans", "Helvetica Neue", Arial, sans-serif;
   font-weight: bold;
