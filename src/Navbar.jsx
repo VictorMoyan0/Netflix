@@ -8,7 +8,7 @@ function Navbar() {
     <header>
       <nav>
         <div className="nav-menu-left">
-          <img src="/logo.png" alt="logo" />
+          
           <ul>
             <li>
               <a href="#">Inicio</a>
